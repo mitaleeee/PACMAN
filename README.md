@@ -31,7 +31,7 @@ A modern twist on the classic Pac-Man game built using Python and Pygame. This v
 - Ghosts activate one after another with increasing delay, adding progressive difficulty.
 
 
-## ▶️ How to Run
+## How to Run
 
 1. Ensure Python 3 and Pygame are installed:
    ```bash
