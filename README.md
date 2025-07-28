@@ -36,3 +36,14 @@ A modern twist on the classic Pac-Man game built using Python and Pygame. This v
 1. Ensure Python 3 and Pygame are installed:
    ```bash
    pip install pygame
+2. Replace the image paths in the script with valid paths on your system for:
+   pacman.jpeg
+   red.jpeg, pink.jpeg, blue.jpeg, orange.jpeg
+
+3. Run the script:
+   ```bash
+   python pacman_game.py
+
+## File Structure
+pacman_game.py – Main game logic
+assets/ – Image files for characters (not included; add manually)
